@@ -1,0 +1,13 @@
+12
+424 158 456 190 fiducial
+15 220 33 239 testpoint
+49 221 70 237 testpoint
+85 221 105 237 testpoint
+122 220 140 236 testpoint
+159 221 177 239 testpoint
+194 221 211 237 testpoint
+231 221 245 239 testpoint
+266 220 282 237 testpoint
+301 221 320 237 testpoint
+338 222 354 237 testpoint
+372 221 390 239 testpoint

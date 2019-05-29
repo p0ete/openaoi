@@ -22,7 +22,9 @@ To enter the notebook, run the commmand:
 
 It will open your browser to http://localhost:8888/ by default.
 
-Then you can open "1. Preprocess and label images" and follow the instructions in the notebook.
+Then you can open "Preprocess and label images" and follow the instructions in the notebook.
+
+For the moment, only the binary classification on the fiducial gives good results. You can follow the instructions in the "Binary Classification" notebook. The matching algorithm on the fiducials gives a lot of noise. Maybe we could mix both techniques. For the testpoints we clearly, don't have enough data. 
 
 # Acknowledgment
 

@@ -1,0 +1,4 @@
+3
+369 150 390 172 testpoint
+167 223 188 242 testpoint
+78 223 99 241 testpoint

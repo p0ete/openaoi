@@ -1,0 +1,12 @@
+11
+138 0 164 22 testpoint
+178 1 208 23 testpoint
+308 26 331 47 testpoint
+302 96 334 119 testpoint
+310 187 331 215 testpoint
+346 302 369 327 testpoint
+394 304 422 325 testpoint
+440 300 459 324 testpoint
+437 2 459 14 testpoint
+451 121 461 145 testpoint
+448 170 461 200 testpoint

@@ -178,9 +178,9 @@ class LabelTool():
 		# load example bboxes
 		#self.egDir = os.path.join(r'./Examples', '%03d' %(self.category))
 		self.egDir = os.path.join(r'./Examples/demo')
-		print(os.path.exists(self.egDir))
-		if not os.path.exists(self.egDir):
-			return
+		#print(os.path.exists(self.egDir))
+		#if not os.path.exists(self.egDir):
+		#	return
 		filelist = glob.glob(os.path.join(self.egDir, '*.jpg'))
 		self.tmp = []
 		self.egList = []

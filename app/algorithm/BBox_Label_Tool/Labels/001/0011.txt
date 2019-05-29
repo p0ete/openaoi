@@ -1,0 +1,4 @@
+3
+394 61 426 91 fiducial
+92 99 125 132 fiducial
+338 174 359 193 testpoint

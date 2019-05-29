@@ -1,0 +1,10 @@
+9
+30 185 52 207 testpoint
+10 233 31 253 testpoint
+53 233 77 252 testpoint
+120 155 141 178 testpoint
+123 216 150 240 testpoint
+131 311 155 339 testpoint
+266 314 289 338 testpoint
+270 220 290 237 testpoint
+267 157 289 179 testpoint

@@ -1,0 +1,26 @@
+25
+36 133 53 148 testpoint
+73 134 89 148 testpoint
+156 101 172 119 testpoint
+227 126 241 141 testpoint
+14 208 31 222 testpoint
+14 225 31 242 testpoint
+34 225 53 241 testpoint
+141 276 156 291 testpoint
+157 274 176 290 testpoint
+175 273 192 291 testpoint
+194 273 209 293 testpoint
+142 293 158 310 testpoint
+124 307 141 325 testpoint
+225 313 243 332 testpoint
+265 294 283 314 testpoint
+263 273 281 291 testpoint
+304 218 320 237 testpoint
+350 252 366 271 testpoint
+367 251 382 269 testpoint
+420 266 436 281 testpoint
+417 293 432 312 testpoint
+419 331 435 345 testpoint
+333 201 355 218 testpoint
+373 201 390 217 testpoint
+416 201 434 217 testpoint

@@ -1,0 +1,10 @@
+9
+70 210 96 232 testpoint
+114 316 137 342 testpoint
+192 220 218 240 testpoint
+269 292 293 312 testpoint
+349 295 372 325 testpoint
+383 255 406 277 testpoint
+373 200 393 224 testpoint
+382 130 405 152 testpoint
+421 27 444 49 testpoint

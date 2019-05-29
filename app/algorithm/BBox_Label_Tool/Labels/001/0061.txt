@@ -1,0 +1,12 @@
+11
+16 10 41 36 testpoint
+42 66 67 84 testpoint
+32 250 57 269 testpoint
+96 236 119 255 testpoint
+155 237 180 261 testpoint
+219 237 240 259 testpoint
+265 99 289 121 testpoint
+289 68 312 87 testpoint
+341 65 364 89 testpoint
+396 124 417 146 testpoint
+440 231 459 251 testpoint

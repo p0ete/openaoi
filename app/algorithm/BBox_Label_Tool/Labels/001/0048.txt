@@ -1,0 +1,10 @@
+9
+32 184 54 208 testpoint
+12 232 32 253 testpoint
+53 232 77 252 testpoint
+120 156 144 177 testpoint
+123 215 149 240 testpoint
+133 312 155 337 testpoint
+264 156 293 180 testpoint
+266 218 291 241 testpoint
+268 315 291 337 testpoint
